@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Dante
+
+I’m a Web developer, from Italy.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=didoda&show_icons=true&theme=radical)](https://github.com/didoda/github-readme-stats)
 
 <!--
 **didoda/didoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
