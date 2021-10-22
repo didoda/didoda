@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dante
 
-I’m a Web developer, from Italy.
+I’m a Senior Web developer, from Italy.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=didoda&show_icons=true&theme=radical)](https://github.com/didoda/github-readme-stats)
 
