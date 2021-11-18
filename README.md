@@ -6,6 +6,8 @@ I’m a senior full stack developer, from Italy.
 
 🔭 I’m currently working on <a href="https://github.com/didoda/manager">BEdita Manager</a>, the official BEdita4 API admin webapp.
 
+[Gitlab overview activity](https://gitlab.com/didoda)
+
 <!--
 
 <a href="https://github.com/didoda/manager">
