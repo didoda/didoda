@@ -8,6 +8,8 @@ I’m a senior full stack developer, from Italy.
 
 [Gitlab overview activity](https://gitlab.com/didoda)
 
+Some demo and docs of my projects are in [didoda.github.io](https://didoda.github.io/)
+
 <!--
 
 <a href="https://github.com/didoda/manager">
