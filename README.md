@@ -2,7 +2,7 @@
 
 I’m a senior full stack developer, from Italy.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=didoda&show_icons=true&theme=radical&hide=contribs)](https://github.com/didoda)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/didoda?cardType=level&theme=radical)](https://git.io/awesome-stats-card)
 
 🔭 I’m currently working on <a href="https://github.com/didoda/manager">BEdita Manager</a>, the official BEdita4 API admin webapp.
 
@@ -11,6 +11,9 @@ I’m a senior full stack developer, from Italy.
 Some demo and docs of my projects are in [didoda.github.io](https://didoda.github.io/)
 
 <!--
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=didoda&show_icons=true&theme=radical)](https://github.com/didoda)
+
 
 <a href="https://github.com/didoda/manager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didoda&repo=manager" />
