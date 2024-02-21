@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dante
 
-I’m a senior full stack developer, from Italy.
+I’m a Back-End Developer & DevOps engineer, from Italy.
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/didoda?cardType=level&theme=radical)](https://git.io/awesome-stats-card)
 
